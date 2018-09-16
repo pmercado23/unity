@@ -1,0 +1,6 @@
+﻿The faint smell of burning awakes you. You awake in a dimly lit cell, your head pounding. Try to remember how you got there, you see you are alone.
+
+2 choices:
+
+1.) Look around the Cell.
+2.) Check yourself.

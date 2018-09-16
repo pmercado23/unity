@@ -1,8 +1,9 @@
-﻿<Properties StartupConfiguration="{9BF1BCD6-F234-9CCC-EC6A-507651A0DF0B}|">
+﻿<Properties StartupConfiguration="{C13A9A71-1AB5-858C-0CC3-4DA63900D2E1}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NumberWizard.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyTextFile.txt">
     <Files>
-      <File FileName="Assets/NumberWizard.cs" Line="53" Column="2" />
+      <File FileName="Assets/AdventureGame.cs" Line="13" Column="46" />
+      <File FileName="EmptyTextFile.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
