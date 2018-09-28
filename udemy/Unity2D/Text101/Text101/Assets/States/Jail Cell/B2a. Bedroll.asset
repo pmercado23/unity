@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f03c8414abe447b8e06923a4eae12e, type: 3}
+  m_Name: B2a. Bedroll
+  m_EditorClassIdentifier: 
+  storyText: "Seems like a basic bedroll, sadly you're not tired. \n\n1. Look around
+    again.\n\n2. Look though hay\n"
+  nextStates:
+  - {fileID: 11400000, guid: 400d77a1766894c40bcaadfb298f0226, type: 2}
+  - {fileID: 11400000, guid: 6e40d2e7d250f4e3d89c2cc589ab0303, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f03c8414abe447b8e06923a4eae12e, type: 3}
+  m_Name: C2a. Key to Freedom
+  m_EditorClassIdentifier: 
+  storyText: 'Looks like the best idea is to grab the keys. Sadly the guard is just
+    out of reach. There must be some way to get them off them!
+
+
+    1. Trick the gaurd
+
+
+    2. Craft something to reach the keys.
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 23131396d025a4662933ad35f31aa1d8, type: 2}
+  - {fileID: 11400000, guid: c397692cd2a56487bac97858cfe3bbf2, type: 2}

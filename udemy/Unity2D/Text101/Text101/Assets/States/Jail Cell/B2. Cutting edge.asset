@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f03c8414abe447b8e06923a4eae12e, type: 3}
+  m_Name: B2. Cutting edge
+  m_EditorClassIdentifier: 
+  storyText: 'You see a few idea''s around the cell that might help.
+
+
+
+    1. Check Bedroll.
+
+
+    2. Check Wooden bowl.
+
+
+    3. Check bucket.
+
+
+    4. Check cell bars.
+
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: d663f6fcd9b3d4d01bdd8932c513d9dc, type: 2}
+  - {fileID: 11400000, guid: c218c667740e8414d96ecbf5cd358f2a, type: 2}
+  - {fileID: 11400000, guid: dd5a614b0878046958a6d7eda1f0edf4, type: 2}
+  - {fileID: 11400000, guid: 42376578ee19f4d24a85215ed4f3a8e0, type: 2}

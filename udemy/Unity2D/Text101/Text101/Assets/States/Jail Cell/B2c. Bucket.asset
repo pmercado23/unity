@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f03c8414abe447b8e06923a4eae12e, type: 3}
+  m_Name: B2c. Bucket
+  m_EditorClassIdentifier: 
+  storyText: "I mean, desperate times call for desperate measures, but this is a little
+    much. \n\n1. Yuck.\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: 400d77a1766894c40bcaadfb298f0226, type: 2}

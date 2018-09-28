@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48f03c8414abe447b8e06923a4eae12e, type: 3}
+  m_Name: C5b. More Questions
+  m_EditorClassIdentifier: 
+  storyText: "\"Who are you? Whos debt am I in now?\" You whisper to him. He reminds
+    quiet even as you push the blade into his neck as to draw a hint of blood.\n\n\n\n\"You
+    cannot escape, they have been watching you for a while.\"\n\n\"WHO?!\" you exclaim.
+    The gaurd takes advantage of this moment to though you off him. He runs for the
+    Cell door as you fling the Bucket at him. \n\n*Slash! (oops, it wasnt empty) \n\n\"Why
+    yo-*\"\" you take advantage of his discuss and tackle him to the ground, knocking
+    him out in the process. Wont be getting much more out of him now. \n\n1. Continue...\n\n"
+  nextStates:
+  - {fileID: 11400000, guid: 7c6b4908a2667443b916acc859b2d3ed, type: 2}
